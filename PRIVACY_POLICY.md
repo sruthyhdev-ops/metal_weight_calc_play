@@ -1,8 +1,8 @@
-# Privacy Policy for Metal Weight Calculator & PDF
+# Privacy Policy for Metal Weight Calculator
 
 **Last Updated: October 24, 2026**
 
-ZMOHI Studios ("we," "our," or "us") develops and operates the **Metal Weight Calculator & PDF** mobile application ("App").
+ZMOHI Studios ("we," "our," or "us") develops and operates the **Metal Weight Calculator** mobile application ("App").
 
 We respect your privacy and are committed to transparency regarding how your information is handled.
 
